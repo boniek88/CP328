@@ -62,7 +62,7 @@ This web solution is ideal for those who want to update their upcoming tasks and
 Since it's purely a frontend application, in order to communicatie new data input or modification among html pages in the same directory, a temporary cache storage of the broswer need to be ultilized to seamlessly share the update within the directory.  By using java script and some of the functions, it is possible. 
 
 ## Discuss what you have learned through the development of the application.
-I learned alot of new functions and use case for Bootstraps, css, ES6 syntax, DOM selectors, DRY principle, and so much more.
+I learned alot of new functions and use case from Bootstraps, css, ES6 syntax, DOM selectors, DRY principle, and so much more.
 
 ## Discuss additional features that could be added to the application in the future.
 I had difficulty applying video and music applications using java script.  Will try to find out what went wrong in the future by taking small steps. 
