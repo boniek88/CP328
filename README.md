@@ -52,14 +52,19 @@ The application consists of the following main components:
 ## Browser Compatibility
 This application uses HTML5 features. Ensure you're using a modern, up-to-date web browser for the best experience.
 
-##Create a short overview of your application.
+## Create a short overview of your application.
+This capstone project is to showcase the usefulness of task manager, which helps organize and remind user's upcoming tasks.  The webpages include a home tab, tasks tab, calendar tab and a profile tab. 
 
-##Highlight the use cases of your application.
+## Highlight the use cases of your application.
+This web solution is ideal for those who want to update their upcoming tasks and schedules thru custom format task management online, and scheduled tasks will be deleted automatically based on real time.
 
-##Highlight the technical functionality of the application from a high-level perspective.
+## Highlight the technical functionality of the application from a high-level perspective.
+Since it's purely a frontend application, in order to communicatie new data input or modification among html pages in the same directory, a temporary cache storage of the broswer need to be ultilized to seamlessly share the update within the directory.  By using java script and some of the functions, it is possible. 
 
-##Discuss what you have learned through the development of the application.
+## Discuss what you have learned through the development of the application.
+I learned alot of new functions and use case for Bootstraps, css, ES6 syntax, DOM selectors, DRY principle, and so much more.
 
-##Discuss additional features that could be added to the application in the future.
+## Discuss additional features that could be added to the application in the future.
+I had difficulty applying video and music applications using java script.  Will try to find out what went wrong in the future by taking small steps. 
 
 
